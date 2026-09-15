@@ -25,7 +25,7 @@ st.set_page_config(
 # ==============================
 
 # Load Maths.csv from the data folder
-df = pd.read_csv("data/Maths.csv")
+df = pd.read_csv("Maths.csv")
 
 
 # ==============================
